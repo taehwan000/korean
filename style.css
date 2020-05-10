@@ -1,0 +1,34 @@
+<style>
+a{
+  color:grey;
+  text-decoration: none;
+}
+
+body{
+  margin:0px;
+}
+h1{
+  text-align: center;
+  font-size: 80px;
+  margin: 0px;
+  border-bottom: 1px solid grey ;
+}
+ol{
+  border-right: 1px solid grey;
+  padding-left: 25px;
+  padding-top: 10px;
+  margin:0;
+}
+#article{
+ padding-left: 25px;
+}
+
+#a{
+ color:grey;
+}
+
+ #grid{
+   display:grid;
+   grid-template-columns: 200px 1fr;
+ }
+</style>
